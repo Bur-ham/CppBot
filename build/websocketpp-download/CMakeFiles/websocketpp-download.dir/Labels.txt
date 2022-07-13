@@ -1,0 +1,13 @@
+# Target labels
+ websocketpp-download
+# Source files and their labels
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/CMakeFiles/websocketpp-download
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/CMakeFiles/websocketpp-download.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule
+/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule

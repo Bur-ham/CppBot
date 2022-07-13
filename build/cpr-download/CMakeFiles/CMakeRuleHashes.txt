@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+62e84502326e86a45c7e4654b4e8e42e CMakeFiles/cpr-download
+99fe6044f5871c7918ad6ca492462c11 CMakeFiles/cpr-download-complete
+d5b7f94310a0a7b906168ea1cb316835 cpr-download-prefix/src/cpr-download-stamp/cpr-download-build
+c70e6c071bbb04053ec01977b5b76c45 cpr-download-prefix/src/cpr-download-stamp/cpr-download-configure
+f18563a061bdfb911369b1dfa8ad7171 cpr-download-prefix/src/cpr-download-stamp/cpr-download-download
+ad59aa3c46af33c898c9964f1770e642 cpr-download-prefix/src/cpr-download-stamp/cpr-download-install
+9dc2ebba69053dcbe2f0682b932a9295 cpr-download-prefix/src/cpr-download-stamp/cpr-download-mkdir
+5ad66a3e6309256b2f62c1cc3e4aa1df cpr-download-prefix/src/cpr-download-stamp/cpr-download-patch
+8b07f1879072a88cca23d846b63656fb cpr-download-prefix/src/cpr-download-stamp/cpr-download-test

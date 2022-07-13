@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libescape.so -o libescape.so CMakeFiles/escape.dir/escape.cpp.o  -Wl,-rpath,/home/bubble/Extras/Projects/MessingAroundWithCpp/CppBot/build/deps/cpp-dotenv/common/libs/antlr4-cpp-runtime/runtime ../../common/libs/antlr4-cpp-runtime/runtime/libantlr4_cpp_runtime.so 
